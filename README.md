@@ -2,10 +2,10 @@
 
 This repo is aimed at teaching the basics of git/github. This will include:
 
-- [ ] forking a repository
-- [ ] cloning a repository
-- [ ] branching
-- [ ] making changes
+- [x] forking a repository
+- [x] cloning a repository
+- [x] branching
+- [x] making changes
 - [ ] staging/commiting/pushing
 - [ ] pull requests
 - [ ] stashing
